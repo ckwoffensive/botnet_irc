@@ -1,3 +1,3 @@
 # botnet_irc
 
-teste
+You just need the perl installed.
